@@ -1,0 +1,1139 @@
+{
+  "scrapedFrom": "https://www.montedopapaleguas.pt",
+  "totalUnique": 130,
+  "files": [
+    {
+      "path": "pl/contactos/11062b_366f7fdbcafc4effaeddb0dba92014c1.png",
+      "page": "contactos",
+      "usedBy": [
+        "contactos"
+      ],
+      "width": 201,
+      "height": 201
+    },
+    {
+      "path": "pl/contactos/11062b_6e9638ad803e4099a6116eb750b5a584.png",
+      "page": "contactos",
+      "usedBy": [
+        "contactos"
+      ],
+      "width": 200,
+      "height": 200
+    },
+    {
+      "path": "pl/galeria/af0952_0dcc5667d96744ffa0a6ed22b539c94d.jpg",
+      "page": "galeria",
+      "usedBy": [
+        "galeria"
+      ]
+    },
+    {
+      "path": "pl/galeria/af0952_0e3eb2069b1248dbaad2b4614e798f96.jpeg",
+      "page": "galeria",
+      "usedBy": [
+        "galeria"
+      ]
+    },
+    {
+      "path": "pl/galeria/af0952_15f693a04fdf49ca85964c9d6fd91072.jpg",
+      "page": "galeria",
+      "usedBy": [
+        "galeria"
+      ]
+    },
+    {
+      "path": "pl/galeria/af0952_19cd13e974e740618f910198a7bd13d9.jpg",
+      "page": "galeria",
+      "usedBy": [
+        "galeria"
+      ]
+    },
+    {
+      "path": "pl/galeria/af0952_20209154b9784ea9a34ed7639e2c84e9.jpeg",
+      "page": "galeria",
+      "usedBy": [
+        "galeria"
+      ]
+    },
+    {
+      "path": "pl/galeria/af0952_2b63f397b60f49b9831d035c87bd95ad.jpg",
+      "page": "galeria",
+      "usedBy": [
+        "galeria"
+      ]
+    },
+    {
+      "path": "pl/galeria/af0952_5353bcd6bc7041e09a0599a83a347a7c.jpg",
+      "page": "galeria",
+      "usedBy": [
+        "galeria"
+      ]
+    },
+    {
+      "path": "pl/galeria/af0952_5548cf1bde7b4da7b6fa2191ebbf798e.jpeg",
+      "page": "galeria",
+      "usedBy": [
+        "galeria"
+      ]
+    },
+    {
+      "path": "pl/galeria/af0952_65985498206543aaa92a3f7779191d6b.jpg",
+      "page": "galeria",
+      "usedBy": [
+        "galeria"
+      ]
+    },
+    {
+      "path": "pl/galeria/af0952_690e68fb6e6a4b1bb1cd47291e4ad947.jpg",
+      "page": "galeria",
+      "usedBy": [
+        "galeria"
+      ]
+    },
+    {
+      "path": "pl/galeria/af0952_6ad212be8a124c6093a394dea0aa519b.jpg",
+      "page": "galeria",
+      "usedBy": [
+        "galeria"
+      ]
+    },
+    {
+      "path": "pl/galeria/af0952_720337865abe46bd9e187401ee12ea77.jpg",
+      "page": "galeria",
+      "usedBy": [
+        "galeria"
+      ]
+    },
+    {
+      "path": "pl/galeria/af0952_7597911e88444e32bf97a48d86efa1e3.jpg",
+      "page": "galeria",
+      "usedBy": [
+        "galeria"
+      ]
+    },
+    {
+      "path": "pl/galeria/af0952_88842cac9695480e9cbc0eac2f847b47.jpg",
+      "page": "galeria",
+      "usedBy": [
+        "galeria"
+      ]
+    },
+    {
+      "path": "pl/galeria/af0952_8e5a4d3de05246e9a6eaf818a06fc39f.jpg",
+      "page": "galeria",
+      "usedBy": [
+        "galeria"
+      ]
+    },
+    {
+      "path": "pl/galeria/af0952_8f203432c1954cb781ecc59be824b869.jpg",
+      "page": "galeria",
+      "usedBy": [
+        "galeria"
+      ]
+    },
+    {
+      "path": "pl/galeria/af0952_a6aaabe2da9e4e90b91e51fa25b2792a.jpg",
+      "page": "galeria",
+      "usedBy": [
+        "galeria"
+      ]
+    },
+    {
+      "path": "pl/galeria/af0952_af4bf50cc53842dfb64b03186dbd9a1b.jpg",
+      "page": "galeria",
+      "usedBy": [
+        "galeria"
+      ]
+    },
+    {
+      "path": "pl/galeria/af0952_b4c38fb50e3d4650abbdf8f3e0ac7298.jpg",
+      "page": "galeria",
+      "usedBy": [
+        "galeria"
+      ]
+    },
+    {
+      "path": "pl/galeria/af0952_c514673b8737487580bff664e6b57b9f.jpg",
+      "page": "galeria",
+      "usedBy": [
+        "galeria"
+      ]
+    },
+    {
+      "path": "pl/galeria/af0952_c53a2118c8d949109130fe0852d702a2.jpg",
+      "page": "galeria",
+      "usedBy": [
+        "galeria"
+      ]
+    },
+    {
+      "path": "pl/galeria/af0952_c72c8347979e49f3a800d69cbee71c1f.jpg",
+      "page": "galeria",
+      "usedBy": [
+        "galeria"
+      ]
+    },
+    {
+      "path": "pl/galeria/af0952_c8246c0931744521b5b3ab54cfe542ae.jpeg",
+      "page": "galeria",
+      "usedBy": [
+        "galeria"
+      ]
+    },
+    {
+      "path": "pl/galeria/af0952_d79b31c80dd54fb6b29e28f81e697710.jpg",
+      "page": "galeria",
+      "usedBy": [
+        "galeria"
+      ]
+    },
+    {
+      "path": "pl/galeria/af0952_f3c9f5f1c318466aa811be2a1c61ee25.jpg",
+      "page": "galeria",
+      "usedBy": [
+        "galeria"
+      ]
+    },
+    {
+      "path": "pl/home/478f8c_c46c33bed8724ccb8556ca10a1a85b82.jpg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 3748,
+      "height": 2500
+    },
+    {
+      "path": "pl/home/af0952_001c89fb63e246ed83fad1e258bfb092.jpg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 8192,
+      "height": 5464
+    },
+    {
+      "path": "pl/home/af0952_0a9c851058394072b3ed9cada8113d86.jpg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 8192,
+      "height": 5464
+    },
+    {
+      "path": "pl/home/af0952_0e5a71d7d30c46c491a8386f181b4ead.jpg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 3748,
+      "height": 2500
+    },
+    {
+      "path": "pl/home/af0952_10faf13a141a434fa6e7b59b838d18d5.jpg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 7750,
+      "height": 5169
+    },
+    {
+      "path": "pl/home/af0952_2063ce58b3e24c2d9f7e42d5d4742162.jpg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 8192,
+      "height": 5464
+    },
+    {
+      "path": "pl/home/af0952_2c8c228dc9f7431f81c8d8868da2a74c.jpg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 8192,
+      "height": 5464
+    },
+    {
+      "path": "pl/home/af0952_2f1c1ecdfca145c48da1a1650c5c71db.jpg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 8152,
+      "height": 5437
+    },
+    {
+      "path": "pl/home/af0952_39a9d95eefc84a82a87a1f516ec16f6f.jpg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 7966,
+      "height": 5313
+    },
+    {
+      "path": "pl/home/af0952_3c99e04087784a80b903a028553abc41.jpg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 3748,
+      "height": 2500
+    },
+    {
+      "path": "pl/home/af0952_46cbd73b16cb418f8cee4432fbacc56a.jpeg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 3024,
+      "height": 4032
+    },
+    {
+      "path": "pl/home/af0952_5051e4f364c4493d99410755eae1c0b2.jpg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 3748,
+      "height": 2500
+    },
+    {
+      "path": "pl/home/af0952_5250cf8f86ac4b4697c1e1736201461e.jpg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 8017,
+      "height": 5347
+    },
+    {
+      "path": "pl/home/af0952_536bfe0220084193b3924daa04e6d6c5.jpg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 8192,
+      "height": 5464
+    },
+    {
+      "path": "pl/home/af0952_540f3f45deca47efb305247664f9e5a3.jpg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 8192,
+      "height": 5464
+    },
+    {
+      "path": "pl/home/af0952_59066295df804c2c883c914477793df5.jpg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 8192,
+      "height": 5464
+    },
+    {
+      "path": "pl/home/af0952_63fc72a295e04aa38f03a19859e1f9e1.jpg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 8192,
+      "height": 5464
+    },
+    {
+      "path": "pl/home/af0952_65b32fb76a154b3bb30ece14b6a5f0c6.jpg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 8192,
+      "height": 5464
+    },
+    {
+      "path": "pl/home/af0952_67424993bb7340868801179a842a6cba.jpg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 8192,
+      "height": 5464
+    },
+    {
+      "path": "pl/home/af0952_6c1ccd170ec74021afc9214b3528969e.jpeg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 3024,
+      "height": 4032
+    },
+    {
+      "path": "pl/home/af0952_76242e2d34b84961b65e1f82b3a4b8a5.jpg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 8192,
+      "height": 5464
+    },
+    {
+      "path": "pl/home/af0952_7dea3dc12b714d07a8653c395bf92396.jpg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 7701,
+      "height": 5137
+    },
+    {
+      "path": "pl/home/af0952_92e94a6cfc564139949c741795785fee.jpg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 8192,
+      "height": 5464
+    },
+    {
+      "path": "pl/home/af0952_9721b96f930245a7913b89293fcd2d62.jpg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 8166,
+      "height": 5447
+    },
+    {
+      "path": "pl/home/af0952_9a9f8594e77a4aff9d3a74fb45cfae97.jpg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 3748,
+      "height": 2500
+    },
+    {
+      "path": "pl/home/af0952_a76ef7675bd041ee8580901761a69acc.jpg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 5464,
+      "height": 8192
+    },
+    {
+      "path": "pl/home/af0952_b6fceae774104539a57d1046a1be9b3a.jpg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 8192,
+      "height": 5464
+    },
+    {
+      "path": "pl/home/af0952_b9c8544c84d24d239e3bcb59243bd2ee.jpg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 8103,
+      "height": 5405
+    },
+    {
+      "path": "pl/home/af0952_c7cedf7f910a440bb201afbfdc6cb1f4.jpeg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 2974,
+      "height": 1926
+    },
+    {
+      "path": "pl/home/af0952_ddca74089c014acabb64aee3e3de4643.jpg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 8114,
+      "height": 5412
+    },
+    {
+      "path": "pl/home/af0952_e07cc58139e4418ba26ec1dcbb3c14a9.jpg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 5409,
+      "height": 8109
+    },
+    {
+      "path": "pl/home/af0952_f4e9cd15b14d44a4860d1990da79fa0b.jpg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 8192,
+      "height": 5464
+    },
+    {
+      "path": "pl/home/af0952_f539e1a89d2d4211b1978c11a8352981.jpeg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 3709,
+      "height": 2782
+    },
+    {
+      "path": "pl/home/af0952_fc0ad90639144193a90fdc7ba82e724d.jpg",
+      "page": "home",
+      "usedBy": [
+        "home"
+      ],
+      "width": 7959,
+      "height": 5309
+    },
+    {
+      "path": "pl/quartos/af0952_11c946597b0d42a8aa157522cb104a57.jpg",
+      "page": "quartos",
+      "usedBy": [
+        "quartos"
+      ],
+      "width": 5409,
+      "height": 8109
+    },
+    {
+      "path": "pl/quartos/af0952_1530efd1cb594e76a0a8781e7753b7c5.jpg",
+      "page": "quartos",
+      "usedBy": [
+        "quartos"
+      ],
+      "width": 8166,
+      "height": 5447
+    },
+    {
+      "path": "pl/quartos/af0952_1b0264c469f1435c987682cf917dc45a.jpg",
+      "page": "quartos",
+      "usedBy": [
+        "quartos"
+      ],
+      "width": 8192,
+      "height": 5464
+    },
+    {
+      "path": "pl/quartos/af0952_2b0507ab68bd4d7b8cdc96278ada71ac.jpg",
+      "page": "quartos",
+      "usedBy": [
+        "quartos"
+      ],
+      "width": 8152,
+      "height": 5437
+    },
+    {
+      "path": "pl/quartos/af0952_417307d196054ad4a63a48a44718cb86.jpg",
+      "page": "quartos",
+      "usedBy": [
+        "quartos"
+      ],
+      "width": 8192,
+      "height": 5464
+    },
+    {
+      "path": "pl/quartos/af0952_4c0005b07b1d47be80860c86379b7ff7.jpg",
+      "page": "quartos",
+      "usedBy": [
+        "quartos"
+      ],
+      "width": 8114,
+      "height": 5412
+    },
+    {
+      "path": "pl/quartos/af0952_676ef829a63b4618a9ef318eabd5249f.jpg",
+      "page": "quartos",
+      "usedBy": [
+        "quartos"
+      ],
+      "width": 8192,
+      "height": 5464
+    },
+    {
+      "path": "pl/quartos/af0952_73da0bd5ff4b40748126e1c3cb9e3508.jpg",
+      "page": "quartos",
+      "usedBy": [
+        "quartos"
+      ],
+      "width": 8103,
+      "height": 5405
+    },
+    {
+      "path": "pl/quartos/af0952_787dfc72878f4c408e833e779f2936f3.jpg",
+      "page": "quartos",
+      "usedBy": [
+        "quartos"
+      ],
+      "width": 8017,
+      "height": 5347
+    },
+    {
+      "path": "pl/quartos/af0952_7d29f35c5b6c47bab65d4b0c4ffeecb1.jpg",
+      "page": "quartos",
+      "usedBy": [
+        "quartos"
+      ],
+      "width": 7959,
+      "height": 5309
+    },
+    {
+      "path": "pl/quartos/af0952_7e060e99ea604b1992b309df252fd972.jpg",
+      "page": "quartos",
+      "usedBy": [
+        "quartos"
+      ],
+      "width": 8192,
+      "height": 5464
+    },
+    {
+      "path": "pl/quartos/af0952_894ca8f51d24412fb4671ea941b5f9f2.jpg",
+      "page": "quartos",
+      "usedBy": [
+        "quartos"
+      ],
+      "width": 5464,
+      "height": 8192
+    },
+    {
+      "path": "pl/quartos/af0952_9420f692e2864248933e69d70f8647f4.jpg",
+      "page": "quartos",
+      "usedBy": [
+        "quartos"
+      ],
+      "width": 3748,
+      "height": 2500
+    },
+    {
+      "path": "pl/quartos/af0952_f46bd2c25bb04eea8b2dfefd61731bbc.jpg",
+      "page": "quartos",
+      "usedBy": [
+        "quartos"
+      ],
+      "width": 8192,
+      "height": 5464
+    },
+    {
+      "path": "pl/redondezas/478f8c_1d144b0434764258b8df9fe2015c3aaf.jpg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1500,
+      "height": 1000
+    },
+    {
+      "path": "pl/redondezas/478f8c_59cb97a99823400aa7e00ec7574a4941.png",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "path": "pl/redondezas/478f8c_5ac3f122d990468ca828f7172616dc2f.jpg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 500,
+      "height": 312
+    },
+    {
+      "path": "pl/redondezas/478f8c_770b1d12cea047419f25276926d39553.png",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1920,
+      "height": 1371
+    },
+    {
+      "path": "pl/redondezas/478f8c_785736a15eec4e29b34d590e60c001f6.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 225,
+      "height": 225
+    },
+    {
+      "path": "pl/redondezas/478f8c_873cc46184b64b27afe05debd91a08db.jpg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 751,
+      "height": 751
+    },
+    {
+      "path": "pl/redondezas/478f8c_87cfb0d389ac460dab58e7d459a9821e.jpg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 2502,
+      "height": 1668
+    },
+    {
+      "path": "pl/redondezas/478f8c_dc784a0c259a4e1ab8fcbbe69648e4f1.jpg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1705,
+      "height": 584
+    },
+    {
+      "path": "pl/redondezas/478f8c_dde94f20a0a141779f336648f02c3258.jpg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 240,
+      "height": 110
+    },
+    {
+      "path": "pl/redondezas/af0952_029b0008d55b4937b13d7c5986cb7bea.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1068,
+      "height": 1600
+    },
+    {
+      "path": "pl/redondezas/af0952_04d779493c744f3da8c59a23a1b2f6ad.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1066,
+      "height": 1599
+    },
+    {
+      "path": "pl/redondezas/af0952_05924230c96046f2a4c45aad53dc7101.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 576,
+      "height": 656
+    },
+    {
+      "path": "pl/redondezas/af0952_10cd61f80603472bb0bc3c5f012fa89a.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 828,
+      "height": 1035
+    },
+    {
+      "path": "pl/redondezas/af0952_1229d54d25b1433ba5f0444c1ae9105b.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1066,
+      "height": 1599
+    },
+    {
+      "path": "pl/redondezas/af0952_18784d3d4d4c4b588ae6a9845bcd9f13.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1279,
+      "height": 1600
+    },
+    {
+      "path": "pl/redondezas/af0952_2840712249804f91a37923c5108f0875.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1279,
+      "height": 1600
+    },
+    {
+      "path": "pl/redondezas/af0952_2dd3834ee93c47dabb7ccb9d4ea12004.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1600,
+      "height": 1066
+    },
+    {
+      "path": "pl/redondezas/af0952_3419e13372a44e7f9dbdd53405eda298.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1066,
+      "height": 1600
+    },
+    {
+      "path": "pl/redondezas/af0952_3438d1ad867345b59d2908ceedcafd95.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1279,
+      "height": 1600
+    },
+    {
+      "path": "pl/redondezas/af0952_3446a5eba0874e41b3b8f4dcc618c4bd.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1066,
+      "height": 1600
+    },
+    {
+      "path": "pl/redondezas/af0952_34bd9797e9c34dd3bfba5a39b4f421c7.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1066,
+      "height": 1600
+    },
+    {
+      "path": "pl/redondezas/af0952_3571b0163887481aa331dd2b47ee377c.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1279,
+      "height": 1600
+    },
+    {
+      "path": "pl/redondezas/af0952_369027d971724b2d8fc160aa01e9fe9c.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1600,
+      "height": 1066
+    },
+    {
+      "path": "pl/redondezas/af0952_3c7a09908de346f48eea4f7227276d38.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1066,
+      "height": 1600
+    },
+    {
+      "path": "pl/redondezas/af0952_3c9812ef2697462d9b4b4d72bedb78a8.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1279,
+      "height": 1600
+    },
+    {
+      "path": "pl/redondezas/af0952_4542aff13b8e4e89b2006cad59e5736b.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "path": "pl/redondezas/af0952_4a19080352b34e198158df2dca9aabb0.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1066,
+      "height": 1599
+    },
+    {
+      "path": "pl/redondezas/af0952_4b06f5963b8c4204978db5db33b1bc1a.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1600,
+      "height": 1279
+    },
+    {
+      "path": "pl/redondezas/af0952_4c9a2808c6da49c7bdc58de2073e0212.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1600,
+      "height": 1279
+    },
+    {
+      "path": "pl/redondezas/af0952_6594e56420c949e191fd62cef62cbdc3.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "path": "pl/redondezas/af0952_6ebfc5a92615446bb63180bb36d93658.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1280,
+      "height": 1600
+    },
+    {
+      "path": "pl/redondezas/af0952_70bf3b93bf664d8f96b3a8c4ab6f806a.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "path": "pl/redondezas/af0952_73e1d9c310664397bf68dfb69901d8cb.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "path": "pl/redondezas/af0952_8121747cdccd48ac9a771b113ee4fbc0.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1600,
+      "height": 1066
+    },
+    {
+      "path": "pl/redondezas/af0952_838176a0c354425bb45b64e4dffb712c.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 960,
+      "height": 641
+    },
+    {
+      "path": "pl/redondezas/af0952_84157d14338f4961869b863f161cc399.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1066,
+      "height": 1600
+    },
+    {
+      "path": "pl/redondezas/af0952_8c6bc53bb8c3468599c794f460487495.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1440,
+      "height": 1440
+    },
+    {
+      "path": "pl/redondezas/af0952_9a298b1a43c04e6a8a16eabd5e0f90d2.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1600,
+      "height": 720
+    },
+    {
+      "path": "pl/redondezas/af0952_a2b93a4162914404885bedf91c28453e.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1600,
+      "height": 720
+    },
+    {
+      "path": "pl/redondezas/af0952_a34f29263f0b4bee897c5fffb2388097.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1066,
+      "height": 1600
+    },
+    {
+      "path": "pl/redondezas/af0952_a7194442c9764dfa9e82e0edfbe92006.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1066,
+      "height": 1600
+    },
+    {
+      "path": "pl/redondezas/af0952_aeacc344932a433cbba7ce1e8e0ed9fb.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 790,
+      "height": 790
+    },
+    {
+      "path": "pl/redondezas/af0952_c37460c684824d4c8961f7225d0e26dd.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1066,
+      "height": 1600
+    },
+    {
+      "path": "pl/redondezas/af0952_c8bfe5e1b74744a39adaaa845555bfc3.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1600,
+      "height": 1064
+    },
+    {
+      "path": "pl/redondezas/af0952_d3adcec014c74c19a1f78bbff41d5e67.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1279,
+      "height": 1600
+    },
+    {
+      "path": "pl/redondezas/af0952_db6f3f418cb946c7ba7c3b7cb417b083.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1600,
+      "height": 1066
+    },
+    {
+      "path": "pl/redondezas/af0952_e60a06ebd90c4096a38d14357142e1d8.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "path": "pl/redondezas/af0952_ea0a4e01ac7f4f8db79808133e209d85.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1600,
+      "height": 1066
+    },
+    {
+      "path": "pl/redondezas/af0952_ed6b6faaffce4bd282da942af9d2630c.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1066,
+      "height": 1600
+    },
+    {
+      "path": "pl/redondezas/af0952_edb3cbff645d4d8ab270f77ebb6173eb.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1066,
+      "height": 1600
+    },
+    {
+      "path": "pl/redondezas/af0952_f6964474416242688d9f7c1964ef23f3.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1066,
+      "height": 1600
+    },
+    {
+      "path": "pl/redondezas/af0952_f72af086100c4b18ac8d90b9a3eee6bd.jpeg",
+      "page": "redondezas",
+      "usedBy": [
+        "redondezas"
+      ],
+      "width": 1279,
+      "height": 1600
+    },
+    {
+      "path": "pl/shared/8a3e6d_3b73f61460dc478f89e987c5f4efbfe5.jpg",
+      "page": "shared",
+      "usedBy": [
+        "quartos",
+        "atividades",
+        "redondezas",
+        "contactos",
+        "home",
+        "galeria",
+        "fullscreen-page"
+      ]
+    },
+    {
+      "path": "pl/shared/8a3e6d_6e35795e40924e4f9778e8c16a67fb89.jpg",
+      "page": "shared",
+      "usedBy": [
+        "quartos",
+        "atividades",
+        "redondezas",
+        "contactos",
+        "home",
+        "galeria",
+        "fullscreen-page"
+      ]
+    },
+    {
+      "path": "pl/shared/af0952_5f68a1368a854f1bb7184924aa9978fd.jpg",
+      "page": "shared",
+      "usedBy": [
+        "quartos",
+        "atividades",
+        "redondezas",
+        "contactos",
+        "home",
+        "galeria",
+        "fullscreen-page"
+      ]
+    }
+  ],
+  "failures": []
+}
